@@ -31,12 +31,15 @@ improve marketing strategy, inventory planning, and sales performance during fes
 ## 📂 Project Structure
 Diwali-Sales-Analysis
 │
+
 ├── data/
 │ └── Diwali Sales Data.csv
 │
+
 ├── notebooks/
 │ └── Diwali_Sales_Analysis.ipynb
 │
+
 └── README.md
 
 
