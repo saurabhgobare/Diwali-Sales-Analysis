@@ -33,10 +33,12 @@ Diwali-Sales-Analysis
 │
 
 ├── data/
+
 │ └── Diwali Sales Data.csv
 │
 
 ├── notebooks/
+
 │ └── Diwali_Sales_Analysis.ipynb
 │
 
