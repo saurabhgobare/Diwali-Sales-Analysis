@@ -1,4 +1,4 @@
-#  Diwali Sales Data Analysis (Python)
+# 🎉 Diwali Sales Data Analysis (Python)
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on Diwali sales data to understand
@@ -31,19 +31,13 @@ improve marketing strategy, inventory planning, and sales performance during fes
 ## 📂 Project Structure
 Diwali-Sales-Analysis
 │
-
 ├── data/
-
 │ └── Diwali Sales Data.csv
 │
-
 ├── notebooks/
-
 │ └── Diwali_Sales_Analysis.ipynb
 │
-
 └── README.md
-
 
 ---
 
@@ -75,19 +69,12 @@ Diwali-Sales-Analysis
 ---
 
 ## 🚀 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Diwali-Sales-Analysis.git
+1. Download or clone the repository  
+2. Open the notebook: notebooks/Diwali_Sales_Analysis.ipynb
+3. Run all cells sequentially in **Jupyter Notebook**
 
+---
 
-Open the notebook:
-
-notebooks/Diwali_Sales_Analysis.ipynb
-
-
-Run all cells sequentially in Jupyter Notebook
-
-👤 Author
-
-Saurabh Gobare
-Aspiring Data Analyst
+## 👤 Author
+**Saurabh Gobare**  
+Aspiring Data Analyst  
